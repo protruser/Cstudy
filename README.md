@@ -1,2 +1,2 @@
 # Cstudy
-C Language, study alone
+C Language
